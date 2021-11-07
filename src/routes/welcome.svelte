@@ -13,4 +13,3 @@
 
     <button on:click={signOut}>Logout</button>
 </div>
-
